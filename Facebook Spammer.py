@@ -13,9 +13,9 @@ from selenium.webdriver.support import expected_conditions as EC
 email_id = '61558179448628'
 password = 'Arie$desiree27'
 
-page_link = 'https://www.facebook.com/photo/?fbid=876501447612306&set=a.636178311644622'
-number_of_times = 1
-frequency = 100
+page_link = 'https://www.facebook.com/profile.php?id=61558179448628'
+number_of_times = 2
+frequency = 10
 message = "#HindiKamiZuZUKO #WeIgniteThisFlame #InsFIREforGold"
 
 # -----------------  INITIALIZE CHROMEDRIVER  ---------------------- #
